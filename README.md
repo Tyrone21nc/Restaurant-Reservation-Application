@@ -5,6 +5,7 @@ Allow users to reserve tables at a restaurant. If table is already reserved, all
 - [Code and File Structure Explained](#code-and-file-structure-explained)
 - [Algorithm and Data Analysis](#algorithm-and-data-structuring)
 - [How to run](#how-to-run)
+- [Demo](#Demo)
 <br><br><br><br><br>
 ### Introduction
 This application allows users to reserve a table at a restaurant. The application allows for a few other features including allowing users to view all current tables, view which ones are currently reserved and still get on the waitlist for those tables. The application also allows users to claim their reservation spot.
@@ -48,3 +49,11 @@ Either process will require you already have a valid c++ compiler installed on V
 To compile, you can run these commands:
 - Compile your code: ```g++ -Wall main.cpp Restaurant.cpp -o main```
 - Then run the program: ```./main```
+
+### Demo
+https://github.com/user-attachments/assets/d395ed02-c189-4238-b252-11103cce5a81
+
+<img width="989" height="1213" alt="Screenshot 2025-12-23 023208" src="https://github.com/user-attachments/assets/341c3b1f-5f61-4130-92b4-209249b06956" />
+<img width="958" height="918" alt="Screenshot 2025-12-23 023359" src="https://github.com/user-attachments/assets/c0b81acc-90f1-4f4b-84ba-ce21145fad84" />
+<img width="717" height="1092" alt="Screenshot 2025-12-23 023512" src="https://github.com/user-attachments/assets/85ffd992-a470-4090-af9d-586a0e9f2005" />
+
