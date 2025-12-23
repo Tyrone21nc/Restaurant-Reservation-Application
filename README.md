@@ -51,7 +51,7 @@ To compile, you can run these commands:
 - Then run the program: ```./main```
 
 ### Demo
-<img width="350" height="550" alt="Screenshot 2025-12-23 023208" src="https://github.com/user-attachments/assets/341c3b1f-5f61-4130-92b4-209249b06956" />
-<img width="350" height="550" alt="Screenshot 2025-12-23 023359" src="https://github.com/user-attachments/assets/c0b81acc-90f1-4f4b-84ba-ce21145fad84" />
-<img width="350" height="550" alt="Screenshot 2025-12-23 023512" src="https://github.com/user-attachments/assets/85ffd992-a470-4090-af9d-586a0e9f2005" />
+<img width="300" height="550" alt="Screenshot 2025-12-23 023208" src="https://github.com/user-attachments/assets/341c3b1f-5f61-4130-92b4-209249b06956" />
+<img width="300" height="550" alt="Screenshot 2025-12-23 023359" src="https://github.com/user-attachments/assets/c0b81acc-90f1-4f4b-84ba-ce21145fad84" />
+<img width="300" height="550" alt="Screenshot 2025-12-23 023512" src="https://github.com/user-attachments/assets/85ffd992-a470-4090-af9d-586a0e9f2005" />
 
