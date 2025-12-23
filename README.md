@@ -11,7 +11,7 @@ This application allows users to reserve a table at a restaurant. The applicatio
 
 ### Code and File Structure Explained
 There application consists of two main files, main.cpp and Restaurant.cpp, (I know, very creative). 
-- Restaurant.cpp is where the main code structure and descriptions are included.
++ Restaurant.cpp is where the main code structure and descriptions are included.
   -  This file includes classes ``Table``, ``Queue``, and ``Restaurant``
   -  These classes define all the available structure of the application
   -  ***Table*** is the lowest complixity data type. What I mean by that is, the other classes use instances of *Table*, in a way, to create their own data types and complexities. Table allows the creation for a table to reserve. You can reserve a 4-person-table.
