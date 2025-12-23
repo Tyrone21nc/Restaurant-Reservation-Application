@@ -42,7 +42,7 @@ Either process will require you already have a valid c++ compiler installed on V
    ```clone https://github.com/Tyrone21nc/Restaurant-Reservation-Application.git```
 5. Assuming it clones the repository, the next command on your terminal should be ```code```, which will then open up VSCode and you can navigate where you cloned the repository. When you get there, you should be ready to [compile](#compile)
 <br><br>
-**Compile**
+#### Compile
 To compile, you can run these commands:
 - Compile your code: ```g++ -Wall main.cpp Restaurant.cpp -o main```
 - Then run the program: ```./main```
