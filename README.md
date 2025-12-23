@@ -3,7 +3,7 @@ Allow users to reserve tables at a restaurant. If table is already reserved, all
 ## Table of Contents
 - [Application Overview](#introduction)
 - [Code and File Structure Explained](#code-and-file-structure-explained)
-- [Algorithm and Data Analysis](#algorithm-and-data-analysis)
+- [Algorithm and Data Analysis](#algorithm-and-data-structuring)
 - [How to run](#how-to-run)
 <br><br><br><br><br>
 ### Introduction
@@ -20,8 +20,10 @@ There application consists of two main files, main.cpp and Restaurant.cpp, (I kn
 - main.cpp is where code execution and a lot of application's computation flow. Ex: what the steps will look like, what will be looped, what actions can the user take, etc.
   - main.cpp included a function to structure the options for the user and a function to run the options which is then called in the main() function.
 <br><br>
-### Algorithm and Data Analysis
-I use various data structures to accomplish this project.
+### Algorithm and Data Structuring
+Knowing how to model data is essential for data storage and retrieval efficiency. This application uses various data structures for specific needs.
+- In the ```Queue``` class, I use a queue data structure (DS), to model how a queue is supposed to work. The Table node that is inserted first will be the first one to be removed. When the user decided to make a reservation on a table, if the that is the first time the reservation is being done on that table, that reservation will be the first one in the queue, if it's not the first time I am reserving that table, it will be the next on the queue.
+- In the ```Restaurant``` class, I use an array to store all the collection of queues. In each queue, I have Tables, so essentially, the array in the Restaurant class stores Table objects, a little like a linked list.
 <br><br>
 ### How to run
 There are two ways to run the code:
