@@ -1,9 +1,9 @@
 # Restaurant-Reservation-Application
 Allow users to reserve tables at a restaurant. If table is already reserved, allows user to waitlisted.
 ## Table of Contents
-- [Application Overview](introduction)
-- [Code and File Structure Explained](#code-base)
-- [Algorithm and Data Analysis](#algorith-analysis)
+- [Application Overview](##introduction)
+- [Code and File Structure Explained](##code-base)
+- [Algorithm and Data Analysis](##algorith-analysis)
 - [How to run](#run-code)
 
 ## Introduction
