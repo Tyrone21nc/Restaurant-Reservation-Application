@@ -34,10 +34,15 @@ Either process will require you already have a valid c++ compiler installed on V
 #### Copy and paste
 1. Open up your favorite Integrated Development Environment(IDE), I suggest Visual Studio Code (VSCode). 
 2. Create a new project folder, then create a file by the name of main.cpp and Restaurant.cpp.
-3. Paste the corresponding code into it's corresponding file. When done, you are ready to compile.
+3. Paste the corresponding code into it's corresponding file. When done, you are ready to [compile](#compile).
 #### Clone Repo
 1. Click on the clone repo icon on this page
 2. Then copy the repository url
-3. If you have a computer that runs on WindowsOS or MacOS, open up your terminal and navigate to the folder where you want to clone this repository. When you are in that folder, type: ```clone url-you-copied-after-cloning```
-4. Assuming it clones the repository, the next command on your terminal should be ```code```, which will then open up VSCode and you can navigate where you cloned the repository
-
+3. If you have a computer that runs on WindowsOS or MacOS, open up your terminal and navigate to the folder where you want to clone this repository. When you are in that folder, type:
+   ```clone https://github.com/Tyrone21nc/Restaurant-Reservation-Application.git```
+5. Assuming it clones the repository, the next command on your terminal should be ```code```, which will then open up VSCode and you can navigate where you cloned the repository. When you get there, you should be ready to [compile](#compile)
+<br><br>
+**Compile**
+To compile, you can run these commands:
+- Compile your code: ```g++ -Wall main.cpp Restaurant.cpp -o main```
+- Then run the program: ```./main```
