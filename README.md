@@ -15,8 +15,8 @@ There application consists of two main files, main.cpp and Restaurant.cpp, (I kn
   -  This file includes classes ``Table``, ``Queue``, and ``Restaurant``
   -  These classes define all the available structure of the application
   -  ***Table*** is the lowest complixity data type. What I mean by that is, the other classes use instances of *Table*, in a way, to create their own data types and complexities. Table allows the creation for a table to reserve. You can reserve a 4-person-table.
-  -  **Queue** is the second complex class. It stores a collection of Table objects, allowing operations to be done on Table objects, structuring them in the form of a queue.
-  -  **Restaurant** is the most complex data type. It stores a collection of *Queues*, structured contiguously in memory. It allows operations such as reserving a table, displaying a table, or claiming a table.
+  -  ***Queue*** is the second complex class. It stores a collection of Table objects, allowing operations to be done on Table objects, structuring them in the form of a queue.
+  -  ***Restaurant*** is the most complex data type. It stores a collection of *Queues*, structured contiguously in memory. It allows operations such as reserving a table, displaying a table, or claiming a table.
 
 <br><br>
 ### Algorithm and Data Analysis
