@@ -1,10 +1,10 @@
 # Restaurant-Reservation-Application
 Allow users to reserve tables at a restaurant. If table is already reserved, allows user to waitlisted.
 ## Table of Contents
-- [Application Overview](##introduction)
-- [Code and File Structure Explained](##code-base)
-- [Algorithm and Data Analysis](##algorith-analysis)
-- [How to run](#run-code)
+- [Application Overview](#introduction)
+- [Code and File Structure Explained](#code-and-file-structure-explained)
+- [Algorithm and Data Analysis](#algorithm-and-data-analysis)
+- [How to run](#how-to-run)
 
 ## Introduction
 This application allows users to reserve a table at a restaurant. The application allows for a few other features including allowing users to view all current tables, view which ones are currently reserved and still get on the waitlist for those tables. The application also allows users to claim their reservation spot.
