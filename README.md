@@ -29,7 +29,6 @@ Knowing how to model data is essential for data storage and retrieval efficiency
 There are two ways to run the code:
 1. [Copy and paste the code onto two .cpp files in an IDE](#copy-and-paste), or
 2. [Clone the repository then open it in an IDE](#clone-repo), preferably VSCode.
-<img width="734" height="513" alt="Screenshot 2025-12-23 021735" src="https://github.com/user-attachments/assets/42595a38-81b9-489a-9a0e-f62decfdeddb" />
 
 Either process will require you already have a valid c++ compiler installed on VSCode. 
 #### Copy and paste
